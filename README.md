@@ -1,1 +1,1 @@
-JavaScript Back-end API used to register users in an SQL database (Postgres)
+NodeJS Back-end API used to register users in an SQL database (Postgres)
